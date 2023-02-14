@@ -21,3 +21,36 @@ p {
   flex-wrap: wrap;
 }
 
+.box2 {
+  float: left;
+  background-color: rgb(95, 231, 224);
+  margin-left: 100px;
+  text-align: center;
+  width: 29%;
+  height: 62px;
+  margin-right: 2px;
+  margin-top: 2px;
+}
+
+.box3 {
+  float: left;
+  background-color: rgb(231, 95, 208);
+  height: 62px;
+  width: 19.2%;
+  text-align: center;
+  margin-right: 2px;
+  margin-left: 2px;
+  margin-top: 2px;
+}
+
+.box4 {
+  float: left;
+  background-color: rgb(118, 231, 95);
+  margin-right: 100px;
+  height: 62px;
+  width: 34.7%;
+  text-align: center;
+  margin-left: 2px;
+  margin-top: 2px;
+}
+
